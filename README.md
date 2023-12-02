@@ -26,11 +26,11 @@ This project provides Api for managing books in a BookLibrary. It's built using 
 - Mongodb
 
 ## API Endpoints
-- POST /books: Create a new book.
 - GET /books: Retrieve all books.
 - GET /books/:id: Retrieve a specific book by ID.
+- POST /books: Create a new book.
 - DELETE /books/:id: Delete a book by ID.
-- PATCH /books/:id: Update a book by ID.
+- PUT /books/:id: Update a book by ID.
 
 ## Deployment:- https://successful-plum-robe.cyclic.app/books
 
